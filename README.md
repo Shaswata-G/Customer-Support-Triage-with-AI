@@ -1,7 +1,3 @@
-Absolutely! Here’s a **professional, client-facing GitHub repository structure and README** for your “Customer Support Triage with AI” n8n workflow. I’ve formatted it to be **concise, visually engaging, and portfolio-ready**, while also including setup instructions, diagrams, and demo ideas.
-
----
-
 # **GitHub Repository: Customer-Support-Triage-AI**
 
 **Repository Name:** `customer-support-triage-ai`
